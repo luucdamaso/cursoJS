@@ -5,5 +5,4 @@ let num2 = prompt ('Digite outro número.');
 num1 = Number(num1)
 num2 = Number(num2)
 
-const resultado = num1 + num2
-alert (`A adição do número que você colocou é ${resultado}`)
+alert (`A adição do número que você colocou é ${num1 + num2}`)
